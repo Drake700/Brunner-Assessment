@@ -1,0 +1,5 @@
+C:\Users\Drake\Desktop\training Antra\实验室\BrunnerExercise\BrunnerExercise\bin\Debug\BrunnerExercise.dll
+C:\Users\Drake\Desktop\training Antra\实验室\BrunnerExercise\BrunnerExercise\bin\Debug\BrunnerExercise.pdb
+C:\Users\Drake\Desktop\training Antra\实验室\BrunnerExercise\BrunnerExercise\obj\Debug\BrunnerExercise.csprojResolveAssemblyReference.cache
+C:\Users\Drake\Desktop\training Antra\实验室\BrunnerExercise\BrunnerExercise\obj\Debug\BrunnerExercise.dll
+C:\Users\Drake\Desktop\training Antra\实验室\BrunnerExercise\BrunnerExercise\obj\Debug\BrunnerExercise.pdb

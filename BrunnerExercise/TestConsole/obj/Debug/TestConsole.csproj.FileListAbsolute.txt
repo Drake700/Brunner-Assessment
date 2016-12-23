@@ -1,0 +1,8 @@
+C:\Users\Drake\Desktop\training Antra\实验室\BrunnerExercise\TestConsole\bin\Debug\TestConsole.exe.config
+C:\Users\Drake\Desktop\training Antra\实验室\BrunnerExercise\TestConsole\bin\Debug\TestConsole.exe
+C:\Users\Drake\Desktop\training Antra\实验室\BrunnerExercise\TestConsole\bin\Debug\TestConsole.pdb
+C:\Users\Drake\Desktop\training Antra\实验室\BrunnerExercise\TestConsole\bin\Debug\BrunnerExercise.dll
+C:\Users\Drake\Desktop\training Antra\实验室\BrunnerExercise\TestConsole\bin\Debug\BrunnerExercise.pdb
+C:\Users\Drake\Desktop\training Antra\实验室\BrunnerExercise\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+C:\Users\Drake\Desktop\training Antra\实验室\BrunnerExercise\TestConsole\obj\Debug\TestConsole.exe
+C:\Users\Drake\Desktop\training Antra\实验室\BrunnerExercise\TestConsole\obj\Debug\TestConsole.pdb

@@ -1,0 +1,8 @@
+C:\Users\Drake\Desktop\training Antra\实验室\BrunnerExercise\ShippingChartUnitTest\bin\Debug\ShippingChartUnitTest.dll
+C:\Users\Drake\Desktop\training Antra\实验室\BrunnerExercise\ShippingChartUnitTest\bin\Debug\ShippingChartUnitTest.pdb
+C:\Users\Drake\Desktop\training Antra\实验室\BrunnerExercise\ShippingChartUnitTest\bin\Debug\BrunnerExercise.dll
+C:\Users\Drake\Desktop\training Antra\实验室\BrunnerExercise\ShippingChartUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Drake\Desktop\training Antra\实验室\BrunnerExercise\ShippingChartUnitTest\bin\Debug\BrunnerExercise.pdb
+C:\Users\Drake\Desktop\training Antra\实验室\BrunnerExercise\ShippingChartUnitTest\obj\Debug\ShippingChartUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Drake\Desktop\training Antra\实验室\BrunnerExercise\ShippingChartUnitTest\obj\Debug\ShippingChartUnitTest.dll
+C:\Users\Drake\Desktop\training Antra\实验室\BrunnerExercise\ShippingChartUnitTest\obj\Debug\ShippingChartUnitTest.pdb
